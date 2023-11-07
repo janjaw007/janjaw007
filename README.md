@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=janjaw007&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,tailwind&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
